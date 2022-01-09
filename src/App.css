@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.completed-todo {
+  text-decoration: solid 3px line-through;
+}
